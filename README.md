@@ -6,7 +6,7 @@ R_ShapedButton is a small Objective C class for creating shaped buttons, which w
 Usage
 -------------
 
-Firstly, add Source files to your project.
+Firstly, add Source files to your project, after that:
 
 1. Create UIButton and set an image to it.
 2. Select Identity Inspector tab
