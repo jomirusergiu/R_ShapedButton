@@ -13,4 +13,6 @@ Usage
 
 Output
 -------------
-
+![ScreenShot](https://github.com/RocKK-MD/R_ShapedButton/blob/master/Screens/Screen%20Shot%202014-02-03%20at%206.21.40%20PM.png?raw=true{url})
+![ScreenShot](https://github.com/RocKK-MD/R_ShapedButton/blob/master/Screens/Screen%20Shot%202014-02-03%20at%206.21.18%20PM.png?raw=true{url})
+![ScreenShot](https://github.com/RocKK-MD/R_ShapedButton/blob/master/Screens/Screen%20Shot%202014-02-03%20at%206.21.25%20PM.png?raw=true{url})
